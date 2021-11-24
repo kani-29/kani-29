@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kanishkar
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently learning AI btech amrita cbe
+- 🌱 I’m currently studying AI btech amrita cbe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me on insta user name -@kanishkar12 
 
