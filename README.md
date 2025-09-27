@@ -1,4 +1,4 @@
-
+---
 
 # 👋 Hi, I’m Kanishkar
 
@@ -17,10 +17,10 @@
 ⚡ **Other:** Linux, Docker, Git
 
 ---
-
+<!--
 ### 📫 How to Reach Me
 
-<!-- * 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+ * 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 * 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/)
 * 🌐 Portfolio/Website: [yourwebsite.com](https://yourwebsite.com) *(optional)*
 -->
