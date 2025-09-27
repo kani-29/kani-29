@@ -12,8 +12,11 @@
 ### 🛠️ Tech & Tools I Use
 
 💻 **Programming:** Python, C++, Rust
+
 🤖 **Robotics:** ROS / ROS2, Gazebo, TurtleBot
+
 🧠 **AI/ML:** TensorFlow, Scikit-learn, Reinforcement Learning
+
 ⚡ **Other:** Linux, Docker, Git
 
 ---
